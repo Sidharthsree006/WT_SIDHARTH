@@ -1,0 +1,26 @@
+5) What happens if you remove the rows and cols attribute?
+
+
+ANS) * The textarea will default to a small size,typically 2-3 rows and 
+       20-40 columns,depending on the browser.
+     * The textarea will automatically resize vertically as the user types,
+       but it will not resize horizontally.
+
+   How does the textarea's appearance change?
+
+ANS) Before removing rows and cols:
+
+    Textarea for a comment
+    
+    Textarea with 5 rows and 30 columns
+
+    Submit comment.
+
+
+    After removing rows and cols:
+
+    Textarea for a comment
+
+    Textarea with default size(eg.,2-3 rows and 20 -40 columns)
+
+    submit comment.

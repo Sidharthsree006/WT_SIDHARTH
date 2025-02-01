@@ -1,0 +1,17 @@
+3)  What happens if you remove the target attribute?
+
+    ANS) remove the target attribute:
+        
+    *  The link will open in the same tab,replacing the current page.
+    *  The behaviour of the link changes from opening in a new tab to 
+        replacing the current page.
+   
+    How does the behaviour of the link change?
+   
+    ANS)  Before removing target:
+            
+            visit Google (opens in a new tab)
+    
+          After removing target:
+
+           visit Google(opens in same tab)

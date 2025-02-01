@@ -1,0 +1,13 @@
+1) what happens if you removes the <br> tag?
+
+ANS) *The paragraph will have only one line.
+     *The layout will become more compact.
+
+	How does the page layout change?
+    
+ANS)   The page will changes to:
+	
+	Welcome to My Web Page
+
+	This is my web page.I am learning HTML 
+		
