@@ -1,0 +1,42 @@
+body {
+    background-color: blue;;
+}
+
+h1 {
+    color: white;
+    border:6px white;
+}
+
+.section {
+    border: 2px solid black;
+    background-color: red;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+}
+
+.section h2 {
+    border: 2px solid blue;
+    color: white;
+    background-color: orange;
+    font-size: 25px;
+    font-style: italic;
+    
+}
+
+.footer {
+    border: 2px solid green;
+    color: white;
+    background-color: violet;
+    font-size:25px;
+    font-style: oblique;
+    
+}
+
+.footer h2 {
+    border: 2px solid red;
+    color: white;
+    background-color: purple;
+    font-size: 25px;
+    font-style:italic;
+}
